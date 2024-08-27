@@ -1,7 +1,8 @@
-# Spring Boot Application
+# Employee Management Application
 
 ## Overview
-This project is a simple Spring Boot application that demonstrates [describe what your application does].
+This project is a simple Spring Boot application that demonstrates the development of a simple Employee Management Application using Java and Spring Boot. This application is capable of performing basic CRUD (Create, Read, Update, Delete) operations for managing employee details.
+
 
 ## Setup Instructions
 
